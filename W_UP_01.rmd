@@ -69,5 +69,5 @@ The inferential results, through the t-test, shows that there is a difference in
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
-
+  
+Given that the graphical descriptive, numerical descriptive, and the inferential results all show that there is a difference in terms of the number of pushups line and skill players can do, we can reject the null hypothesis which claims that there is no difference between the average number of pushups of line vs skill players. 
