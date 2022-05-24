@@ -44,7 +44,9 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
-
+  
+The graphical descriptive results, through the box plot, shows that there is a difference in terms of the number of pushups line and skill players can do. The range of the number of pushups for line players is around 0 to 40 pushups. For skill players, the range is from 20 to about 90, with one outlier above this range.  
+  
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
